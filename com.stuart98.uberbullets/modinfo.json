@@ -1,0 +1,18 @@
+{
+    "context" : "client",
+    "identifier" : "com.stuart98.uberbullets",
+    "display_name" : "Awesome Projectiles",
+    "description" : "Replaces projectiles for many units in the game with better ones. Because dox should be shooting lasers!",
+    "author" : "Stuart98",
+    "version" : "1.0",
+    "signature" : "not yet implemented",
+    "priority": 100,
+    "enabled" : true,
+    "forum": "https://forums.uberent.com/threads/rel-awesome-projectiles.63534/", 
+    "category": [
+        "Effects",
+        "Projectiles"
+    ],
+    "date": "2014/09/03",
+    "build": "71459"
+}
