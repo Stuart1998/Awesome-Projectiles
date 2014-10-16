@@ -1,0 +1,35 @@
+{
+  "ammo_type": "AMMO_Projectile",
+  "damage": 50000,
+  "events": {
+    "died": {
+      "audio_cue": "/SE/Impacts/shell_artillery",
+      "effect_spec": "/pa/effects/specs/default_explosion.pfx"
+    }
+  },
+  "flight_type": "Ballistic",
+  "fx_trail": {
+    "filename": "/pa/effects/specs/shell_mortar_small_proj_trail.pfx",
+    "offset": [
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "initial_velocity": 115.0,
+  "lifetime": 10,
+  "model": {
+    "filename": "/pa/units/air/mortar/mortar.papa"
+  },
+  "physics": {
+    "add_to_spatial_db": false,
+    "allow_underground": true,
+    "gravity_scalar": 10,
+    "push_class": 1,
+    "radius": 1
+  },
+  "spawn_layers": "WL_Air",
+  "splash_damage": 5000,
+  "splash_radius": 2500,
+  "turn_rate": 3
+}
