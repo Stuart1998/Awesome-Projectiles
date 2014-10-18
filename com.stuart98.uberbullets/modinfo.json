@@ -4,7 +4,7 @@
     "display_name" : "Awesome Projectiles",
     "description" : "Replaces projectiles for many units in the game with better ones. Because dox should be shooting lasers!",
     "author" : "Stuart98",
-    "version" : "1.1",
+    "version" : "1.2",
     "signature" : "not yet implemented",
     "priority": 100,
     "enabled" : true,
@@ -13,6 +13,6 @@
         "Effects",
         "Projectiles"
     ],
-    "date": "2014/09/03",
-    "build": "71459"
+    "date": "2014/10/17",
+    "build": "73939"
 }
