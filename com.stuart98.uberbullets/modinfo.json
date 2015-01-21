@@ -2,9 +2,9 @@
     "context" : "client",
     "identifier" : "com.stuart98.uberbullets",
     "display_name" : "Awesome Projectiles",
-    "description" : "Replaces projectiles for many units in the game with better ones. Because dox should be shooting lasers!",
-    "author" : "Stuart98",
-    "version" : "1.2",
+    "description" : "Improves or replaces the look of projectiles in Planetary Annihilation.",
+    "author" : "Stuart98, ZX0",
+    "version" : "1.3",
     "signature" : "not yet implemented",
     "priority": 100,
     "enabled" : true,
@@ -13,6 +13,6 @@
         "Effects",
         "Projectiles"
     ],
-    "date": "2014/10/17",
-    "build": "73939"
+    "date": "2015/01/21",
+    "build": "76843"
 }
