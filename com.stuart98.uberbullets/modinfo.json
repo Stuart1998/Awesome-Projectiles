@@ -1,18 +1,19 @@
 {
-    "context" : "client",
-    "identifier" : "com.stuart98.uberbullets",
-    "display_name" : "Awesome Projectiles",
-    "description" : "Improves or replaces the look of projectiles in Planetary Annihilation.",
-    "author" : "Stuart98, ZX0",
-    "version" : "1.31",
-    "signature" : "not yet implemented",
-    "priority": 100,
-    "enabled" : true,
-    "forum": "https://forums.uberent.com/threads/rel-awesome-projectiles.63534/", 
-    "category": [
-        "Effects",
-        "Projectiles"
-    ],
-    "date": "2015/02/04",
-    "build": "77725"
+  "author": "Stuart98, ZX0",
+  "build": "89755",
+  "category": [
+    "Effects",
+    "Projectiles"
+  ],
+  "context": "client",
+  "date": "2016/04/18",
+  "description": "Replaces your old boring projectiles with awesome team colored ones.",
+  "display_name": "Awesome Projectiles",
+  "enabled": true,
+  "forum": "https://forums.uberent.com/threads/rel-awesome-projectiles.63534/",
+  "icon": "http://i.imgur.com/xSBVzFt.jpg",
+  "identifier": "com.stuart98.uberbullets",
+  "priority": 100,
+  "signature": "not yet implemented",
+  "version": "1.4"
 }
